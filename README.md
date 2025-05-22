@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy OreoMain
+Soy estudiante de programación en la UPSO y estoy empezando mi camino como desarrollador web y tester.
 
-<!--
-**OreoMain/OreoMain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tecnologías que uso
+- HTML, CSS, JavaScript
+- Python
+- Git & GitHub
+- SQL básico
 
-Here are some ideas to get you started:
+## ⚙️ Proyectos
+- Aun ninguno pero cuando lo tenga lo añadire :)
+  
+## 🎯 Objetivo
+Conseguir experiencia en desarrollo y QA, trabajando de forma remota mientras sigo aprendiendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Instagram: @OreoMain

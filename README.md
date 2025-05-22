@@ -13,4 +13,4 @@ Soy estudiante de programación en la UPSO y estoy empezando mi camino como desa
 ## 🎯 Objetivo
 Conseguir experiencia en desarrollo y QA, trabajando de forma remota mientras sigo aprendiendo.
 
-📫 Instagram: @OreoMain
+📫 Instagram: @OreoMain_
